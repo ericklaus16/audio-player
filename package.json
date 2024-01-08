@@ -9,14 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "list-files": "^1.1.4",
+    "list-react-files": "^0.2.0",
+    "next": "14.0.3",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.3"
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
-    "@types/react-dom": "^18"
+    "@types/react-dom": "^18",
+    "@types/webpack-env": "^1.18.4",
+    "typescript": "^5"
   }
 }
